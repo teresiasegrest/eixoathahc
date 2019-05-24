@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jainahshe.serwis-rtv.waw.pl/sitemap.xml
